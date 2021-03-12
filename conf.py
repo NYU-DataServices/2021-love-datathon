@@ -146,13 +146,13 @@ NAVIGATION_LINKS = {
     
 NAVIGATION_ALT_LINKS = {
     DEFAULT_LANG: (
-        ("/organizers/", "Organizers"),
+        ("/awards/", "Awards"),
         (
             (
                 ("/logistics/", "Logistics"),
                 ("/tracks/", "Datathon Tracks"),
                 ("/teams/", "Datathon Teams"),
-#                ("/awards/", "Awards"),
+                ("/organizers/", "Organizers"),
                 ("/faq/", "FAQ"),
                 ("/sponsors/", "Sponsors"),
             ),

@@ -26,6 +26,13 @@ footer {
   font-size:1.2em;    
 }
 
+a.disabled {
+  /* Make the disabled links grayish*/
+  color: #d87881 !important;
+  /* And disable the pointer events */
+  pointer-events: none;
+}
+
 /* --------------------COLOR CHANGES to primary and secondary--------------------------*/
 
 :root {
